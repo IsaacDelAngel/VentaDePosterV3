@@ -1,0 +1,12 @@
+{
+    "name": "claudia/postersv3",
+    "description": "sistema de venta de postersv3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Isaac del Angel",
+            "email": "juanitokamykaze240@gmail.com"
+        }
+    ],
+    "require": {}
+}
